@@ -1,0 +1,3 @@
+class AccueilController < ApplicationController
+
+end

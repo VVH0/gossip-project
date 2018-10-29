@@ -1,0 +1,12 @@
+<h1>Hello te voici dans la page potins de la team de lille</h1>
+<% Gossip.all.each do |gossip|%>
+
+<div class="card">
+  <h5 class="card-header">gossip n°<%=gossip.id%></h5>
+  <div class="card-body">
+    <h5 class="card-title">auteur du gossip <%= gossip.author %></h5>
+    <p class="card-text">Contenu du gossip <%=gossip.content %> .</p>
+    <a class="btn btn-primary" <%= link_to 'ici',potin_path(gossip.id)%> </a>
+  </div>
+</div>
+<% end %>
