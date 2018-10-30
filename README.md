@@ -1,24 +1,23 @@
-# README
+# GOSSIP PROJECT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+L'objectif de ce projet était de réaliser une application rails avec quelques pages statiques, un systèmes de landing pages personnalisées, un index et un show de potins. Le tout avec Bootstrap et un header qui a les bons liens.
 
-* Ruby version
+## 🐣 Pour commencer
 
-* System dependencies
+Cloner ce repository.
 
-* Configuration
+## 🔧 Voici le lien Heroku
 
-* Database creation
 
-* Database initialization
+````
+https://gossip-project.herokuapp.com/
+``````
 
-* How to run the test suite
+💁‍♀️ Auteurs 💁‍♀️
 
-* Services (job queues, cache servers, search engines, etc.)
+Ce projet a été réalisé en pair-programming avec Anaïs Diologeant et Virginie Valeur Hannebicque.
 
-* Deployment instructions
 
-* ...
+
+Bonne journée 
